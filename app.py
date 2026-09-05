@@ -12,6 +12,3 @@ if st.button("Evaluate"):
     else:
         st.error("Result: Fail")
 
-output Link
-https://app-course-yeb7xysma44rvcwnkygrrv.streamlit.app/
-
